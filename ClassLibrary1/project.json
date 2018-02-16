@@ -1,0 +1,203 @@
+﻿[ coredebug ] {
+  0 [ "coredebug" ],
+  {
+    0: null,
+    [ "coredebug" ],
+    {
+      0: null,
+      [ "coredebug" ],
+      {
+        0: null,
+        [ "coredebug" ],
+          0: null,
+          [ "coredebug" ],
+          [ "coredebug" ],
+          {
+            0 {
+              [ "coredebug" ],
+              [ "coredebug" ],
+              {
+                0 {
+                  0: null,
+                  0: null,
+                  "supports": {
+                    [ "coredebug" ],
+                    {
+                      0: null,
+                      "net46.app": {},
+                      "dnxcore50.app": {},
+                      [ "coredebug" ],
+                      { 0 },
+                      [ "coredebug1" ],
+                      "dependencies": {
+                        [
+                          "coredebug2",
+                          [
+                            "coredebug3",
+                            [
+                              "coredebug4",
+                              [
+                                "coredebug5",
+                                "Microsoft.NETCore",
+                                [
+                                  "coredebug6",
+                                  "5.0.0",
+                                  [
+                                    "coredebug7",
+                                    [
+                                      "coredebug8",
+                                      "Microsoft.NETCore.Portable.Compatibility",
+                                      [
+                                        "coredebug9",
+                                        "1.0.0",
+                                        [ "coredebug10"
+                      },
+                      [
+                        "coredebug",
+                        "frameworks",
+                        {
+                          [
+                            "coredebug",
+                            "dotnet",
+                            {
+                              "imports": "portable-net452"
+                            }
+                        }
+                    },
+                    [ "coredebug" ],
+                    {
+                      0 [ "coredebug" ],
+                      {
+                        0: null,
+                        [ "coredebug" ],
+                        {
+                          0: null,
+                          [ "coredebug" ],
+                          {
+                            0: null,
+                            [ "coredebug" ],
+                            {
+                              0: null,
+                              [ "coredebug" ],
+                              [ "coredebug" ],
+                              {
+                                0 {
+                                  [ "coredebug" ],
+                                  [ "coredebug" ],
+                                  {
+                                    0 {
+                                      0: null,
+                                      0: null,
+                                      "supports": {
+                                        [ "coredebug" ],
+                                        {
+                                          0: null,
+                                          "net46.app": {},
+                                          "dnxcore50.app": {},
+                                          [ "coredebug" ],
+                                          { 0 },
+                                          [ "coredebug1" ],
+                                          "dependencies": {
+                                            [
+                                              "coredebug2",
+                                              [
+                                                "coredebug3",
+                                                [
+                                                  "coredebug4",
+                                                  [
+                                                    "coredebug5",
+                                                    "Microsoft.NETCore",
+                                                    [
+                                                      "coredebug6",
+                                                      "5.0.0",
+                                                      [
+                                                        "coredebug7",
+                                                        [
+                                                          "coredebug8",
+                                                          "Microsoft.NETCore.Portable.Compatibility",
+                                                          [
+                                                            "coredebug9",
+                                                            "1.0.0",
+                                                            [ "coredebug10"
+                                          },
+                                          [
+                                            "coredebug",
+                                            "frameworks",
+                                            {
+                                              [
+                                                "coredebug",
+                                                "dotnet",
+                                                {
+                                                  "imports": "portable-net452"
+                                                }
+                                            }
+                                        },
+                                        [ "coredebug" ],
+                                        {
+                                          0 [ "coredebug" ],
+                                          {
+                                            0: null,
+                                            [ "coredebug" ],
+                                            {
+                                              0: null,
+                                              [ "coredebug" ],
+                                              {
+                                                0: null,
+                                                [ "coredebug" ],
+                                                {
+                                                  0: null,
+                                                  [ "coredebug" ],
+                                                  [ "coredebug" ],
+                                                  {
+                                                    0 {
+                                                      [ "coredebug" ],
+                                                      [ "coredebug" ],
+                                                      {
+                                                        0 {
+                                                          0: null,
+                                                          0: null,
+                                                          "supports": {
+                                                            [ "coredebug" ],
+                                                            {
+                                                              0: null,
+                                                              "net46.app": {},
+                                                              "dnxcore50.app": {},
+                                                              [ "coredebug" ],
+                                                              { 0 },
+                                                              [ "coredebug1" ],
+                                                              "dependencies": {
+                                                                [
+                                                                  "coredebug2",
+                                                                  [
+                                                                    "coredebug3",
+                                                                    [
+                                                                      "coredebug4",
+                                                                      [
+                                                                        "coredebug5",
+                                                                        "Microsoft.NETCore",
+                                                                        [
+                                                                          "coredebug6",
+                                                                          "5.0.0",
+                                                                          [
+                                                                            "coredebug7",
+                                                                            [
+                                                                              "coredebug8",
+                                                                              "Microsoft.NETCore.Portable.Compatibility",
+                                                                              [
+                                                                                "coredebug9",
+                                                                                "1.0.0",
+                                                                                [ "coredebug10"
+                                                              },
+                                                              [
+                                                                "coredebug",
+                                                                "frameworks",
+                                                                {
+                                                                  [
+                                                                    "coredebug",
+                                                                    "dotnet",
+                                                                    {
+                                                                      "imports": "portable-net452"
+                                                                    }
+                                                                }
+                                                            },
+                                                            "http": //store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/
